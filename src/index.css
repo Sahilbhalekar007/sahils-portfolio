@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-control {
+    @apply w-full border p-2 rounded-lg
+}
+
+.btn {
+    @apply p-3 py-2  rounded-lg
+}

@@ -1,0 +1,71 @@
+{
+  "projects": [
+    {
+      "id": "ef89",
+      "name": "Instagram App",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa nesciunt ea enim doloremque ipsum id odio excepturi unde reiciendis sint.",
+      "link": "https;//www.insta.com",
+      "thumb": "https://plus.unsplash.com/premium_photo-1707229723342-1dc24b80ffd6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "0a7e",
+      "name": "Portfolio App",
+      "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Culpa nesciunt ea enim doloremque ipsum id odio excepturi unde reiciendis sint.",
+      "link": "https;//www.portfolio.com",
+      "thumb": "https://images.unsplash.com/photo-1708724195876-1156245fce21?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Sahil manohar bhakekar",
+      "desc": "sambhajinagar",
+      "link": "dddddddddddddddd",
+      "thumb": "WDASCASC",
+      "id": "mZHd6uQ"
+    },
+    {
+      "name": "Sahil manohar bhakekar",
+      "desc": "0007",
+      "link": "https://images.unsplash.com/photo-1682686579688-c2ba945eda0e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "thumb": "ddddddddd",
+      "id": "ADmxSht"
+    },
+    {
+      "name": "aniket paulker",
+      "desc": "gandi",
+      "link": "wifuhwerui",
+      "thumb": "jhslgnsdv'ewrou",
+      "id": "kbM3q8C"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "aae7",
+      "name": "Ritesh",
+      "email": "hjdbuwvu",
+      "message": "jjhbjhbj"
+    },
+    {
+      "id": "2d62",
+      "name": "mmmmmmmm",
+      "email": "hgh",
+      "message": "vhhh"
+    },
+    {
+      "id": "4806",
+      "name": "gdgh",
+      "email": "hh",
+      "message": "vhvhv"
+    },
+    {
+      "id": "6787",
+      "name": "RIteshh",
+      "email": "riteshbahadure2@gmail.com",
+      "message": "Join My Company"
+    },
+    {
+      "name": "Sahil manohar bhakekar",
+      "email": "sahilbhalekar77@gmail.com",
+      "message": "qefwefwe",
+      "id": "NWuWpSE"
+    }
+  ]
+}
